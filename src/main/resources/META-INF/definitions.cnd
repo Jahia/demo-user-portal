@@ -4,6 +4,7 @@
 <dash4nt = 'http://modules.se.jahia.org/dashboard-4-user/nt/1.0'>
 <dash4mix = 'http://modules.se.jahia.org/dashboard-4-user/mix/1.0'>
 <dash4 = 'http://modules.se.jahia.org/dashboard-4-user/1.0'>
+<seumix = 'http://modules.se.jahia.org/se-utils/mix/1.0'>
 
 [dash4nt:folderList] > jnt:contentList, jmix:editorialContent
 
@@ -43,7 +44,7 @@
 
 [dash4nt:mocks] > jnt:content, dash4mix:components, mix:title, dash4mix:mocksDef
 
-[dash4nt:userPortal] > jnt:content, jmix:mainResource, dash4mix:components, dash4mix:webappConfiguration, mix:title, dash4mix:portalStaticLabels
+[dash4nt:userPortal] > jnt:content, jmix:mainResource, dash4mix:components, dash4mix:webappConfiguration, mix:title, dash4mix:portalStaticLabels, seumix:mapJExpProperty
  - dash4:category (weakreference)
  - dash4:personalizedAds (weakreference, choicelist[nodes='$currentSite/contents/user-portal//*;wemmix:personalizedList'])
 
