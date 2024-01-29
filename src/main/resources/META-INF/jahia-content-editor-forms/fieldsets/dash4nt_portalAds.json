@@ -1,9 +1,0 @@
-{
-  "name": "dash4nt:portalAds",
-  "fields": [
-    {
-      "name": "dash4:image",
-      "selectorType": "DamSelector"
-    }
-  ]
-}

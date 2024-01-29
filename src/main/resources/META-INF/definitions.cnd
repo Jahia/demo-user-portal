@@ -50,7 +50,7 @@
 
 [dash4nt:portalAds] > jnt:content, jmix:mainResource, dash4mix:components, seumix:linkTo
  - dash4:teaser (string,richtext[ckeditor.toolbar='Tinny',ckeditor.customConfig='$context/modules/demo-user-portal/javascript/ckeditor/config/adsTeaser.js']) primary internationalized
- - dash4:image (weakreference, picker[type='image']) mandatory
+ - dash4:image (weakreference, picker[type='image']) mandatory < 'jmix:image'
 
 [dash4nt:portalAdsPerso] > jnt:content, jmix:list, mix:title, dash4mix:components
 orderable
