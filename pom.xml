@@ -23,6 +23,7 @@
     <properties>
         <jahia-depends>default,jexperience,codemirror-editor,dropdown-tree-select,se-utils,se-jExp-utils</jahia-depends>
         <jahia-static-resources>/css,/javascript,/icons,/images</jahia-static-resources>
+        <jahia.plugin.version>6.9</jahia.plugin.version>
     </properties>
 
     <repositories>
