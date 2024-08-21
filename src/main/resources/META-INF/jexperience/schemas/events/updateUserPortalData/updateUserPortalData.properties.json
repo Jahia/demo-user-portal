@@ -1,0 +1,18 @@
+{
+  "$id": "https://jexperience.jahia.com/schemas/json/events/updateUserPortalData/properties/1-0-0",
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "self": {
+    "vendor": "jexperience.se.jahia.com",
+    "name": "updateUserPortalDataProperties",
+    "format": "jsonschema",
+    "version": "1-0-0"
+  },
+  "title": "Update User Portal Data Properties",
+  "type": "object",
+  "properties": {
+    "update": {
+      "type" : "object"
+    }
+  },
+  "unevaluatedProperties": false
+}
