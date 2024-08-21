@@ -9,7 +9,7 @@
     <groupId>org.jahia.se.modules</groupId>
     <artifactId>demo-user-portal</artifactId>
     <name>Demo User Portal</name>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.4-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <description>This is the custom module (Demo User Portal) for running on a Jahia server.</description>
 
