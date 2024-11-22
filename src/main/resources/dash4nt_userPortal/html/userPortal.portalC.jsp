@@ -2,5 +2,5 @@
 <%@ taglib prefix="template" uri="http://www.jahia.org/tags/templateLib" %>
 
 <template:include view="hidden.render">
-    <template:param name="layout" value="PortalA"/>
+    <template:param name="layout" value="PortalC"/>
 </template:include>
