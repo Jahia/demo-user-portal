@@ -9,7 +9,7 @@
     <groupId>org.jahia.se.modules</groupId>
     <artifactId>demo-user-portal</artifactId>
     <name>Demo User Portal</name>
-    <version>1.0.5</version>
+    <version>1.0.6-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <description>This is the custom module (Demo User Portal) for running on a Jahia server.</description>
 
@@ -17,7 +17,7 @@
         <connection>scm:git:git@github.com:Jahia/demo-user-portal.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/demo-user-portal.git</developerConnection>
         <url>https://github.com/Jahia/demo-user-portal</url>
-      <tag>demo-user-portal-1.0.5</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
