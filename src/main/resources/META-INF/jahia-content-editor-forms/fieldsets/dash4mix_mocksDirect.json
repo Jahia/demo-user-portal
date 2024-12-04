@@ -40,6 +40,26 @@
           "value" : "javascript"
         }
       ]
+    },
+    {
+      "name": "dash4:contracts",
+      "selectorType": "CodeMirror",
+      "selectorOptions":[
+        {
+          "name": "mode",
+          "value" : "javascript"
+        }
+      ]
+    },
+    {
+      "name": "dash4:salesChart",
+      "selectorType": "CodeMirror",
+      "selectorOptions":[
+        {
+          "name": "mode",
+          "value" : "javascript"
+        }
+      ]
     }
   ]
 }
